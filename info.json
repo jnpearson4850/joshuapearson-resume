@@ -1,0 +1,19 @@
+{
+    "name": "Josh Pearson",
+    "website": "www.ElonMusk.com",
+    "linkedin": "www.linkedin.com/The-Rock",
+    "github": "Teddy Roosevelt",
+    "email": "someName@hotmail.com",
+    "resume": "Ya looking at it",
+    "proficient-skills": [
+        "flying", 
+        "long walks on the beach", 
+        "dsicovering new lands", 
+        "eating", 
+        "hitting holes in one", 
+    ],
+    "other-skills": [
+        "playing two guitars at the smame time",
+        "piano"
+    ]
+}
